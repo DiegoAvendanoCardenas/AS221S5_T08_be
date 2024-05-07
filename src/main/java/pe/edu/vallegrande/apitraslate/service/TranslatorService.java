@@ -14,7 +14,7 @@ import java.io.IOException;
 @Slf4j
 public class TranslatorService {
 
-    private static final String TRANSLATOR_KEY = "68ba37ecd3f949bb89133aa9cad1dd71";
+    private static final String TRANSLATOR_KEY = "3826356158bb4abb82e2d9160a0ccb05";
     private static final String TRANSLATOR_LOCATION = "eastus";
     private static final String TRANSLATOR_ENDPOINT = "https://api.cognitive.microsofttranslator.com";
     private static final String TRANSLATOR_ROUTE = "/translate?api-version=3.0";
