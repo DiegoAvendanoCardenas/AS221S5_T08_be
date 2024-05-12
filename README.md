@@ -28,7 +28,7 @@ Las dependencias de Spring Boot utilizadas en este proyecto incluyen:
 El desarrollo de este proyecto tiene como objetivo crear una aplicación que permita a los usuarios traducir texto de un idioma a otro de manera eficiente y almacenar las traducciones realizadas en una base de datos para su posterior referencia. Además, proporciona una muestra de cómo integrar los servicios cognitivos de Azure AI en una aplicación Java utilizando Spring Boot.
 
 <div style="display:flex; justify-content: center;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/1200px-Microsoft_Azure_Logo.svg.png" alt="Azure Logo" style="margin-right: 20px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/1200px-Spring_Framework_Logo_2018.svg.png" alt="Spring Boot Logo" style="margin-right: 20px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="PostgreSQL Logo">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/1200px-Microsoft_Azure_Logo.svg.png" alt="Azure Logo" style="width: 100px; margin-right: 20px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/1200px-Spring_Framework_Logo_2018.svg.png" alt="Spring Boot Logo" style="width: 100px; margin-right: 20px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="PostgreSQL Logo" style="width: 100px;">
 </div>
