@@ -26,3 +26,8 @@ Las dependencias de Spring Boot utilizadas en este proyecto incluyen:
 ## Fin del Desarrollo del Proyecto
 
 El desarrollo de este proyecto tiene como objetivo crear una aplicación que permita a los usuarios traducir texto de un idioma a otro de manera eficiente y almacenar las traducciones realizadas en una base de datos para su posterior referencia. Además, proporciona una muestra de cómo integrar los servicios cognitivos de Azure AI en una aplicación Java utilizando Spring Boot.
+<div style="display:flex; justify-content: center;">
+    <img src="[imagen1.png](https://wiki.hornbill.com/images/4/46/Azure_ai_logo.png)" alt="Imagen 1" style="margin-right: 10px;">
+    <img src="[imagen2.png](https://i.pinimg.com/564x/bd/e9/75/bde975558b82fd6c2cb9c8e2a15339fc.jpg)" alt="Imagen 2" style="margin-right: 10px;">
+    <img src="[imagen3.png](https://digitalis.io/wp-content/uploads/2020/12/PostgreSQL600x340.jpg)" alt="Imagen 3" style="margin-right: 10px;">
+</div>
