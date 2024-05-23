@@ -1,4 +1,4 @@
-# Integración de Azure Cognitive Services AI con Spring Boot y Base de Datos
+# Integración de Azure Cognitive Services AI con Spring Boot y Base de Datos :v
 
 Este proyecto demuestra cómo integrar los servicios cognitivos de inteligencia artificial (AI) de Azure con una aplicación Spring Boot que utiliza una base de datos PostgreSQL para almacenar las traducciones realizadas.
 
